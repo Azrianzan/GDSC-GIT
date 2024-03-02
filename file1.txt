@@ -33,3 +33,9 @@ GIT Collaborate like a pro:
     setuju untuk menerima perubahan tersebut maka bisa merge dan
     confirm merge sehingga perubahan yang telah kita buat juga
     tersimpan di repo github orang lain tsb yang kita fork.
+
+    NEXT MATERI:
+    1) Github Branch
+    2) Github Pages
+    3) Github action
+    4) Perintah advance untuk git
