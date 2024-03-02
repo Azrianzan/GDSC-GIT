@@ -7,7 +7,7 @@ GIT Collaborate like a pro:
 3) bisa masukkan code . untuk buka vscode dan buat file yang
    diperlukan di folder
 4) git status untuk melihat status perubahan file
-5) git add 'nama file.txt' untuk menambahkan file tsb
+5) git add 'nama file.txt' untuk menambahkan perubahan
 6) git commit -m "ket. perubahan file" untuk menyimpan
    perubahan ke dalam repo
 7) git status untuk melihat status perubahan file lagi dan
@@ -15,7 +15,7 @@ GIT Collaborate like a pro:
 8) buka github dan buat repository baru
 9) ikuti command untuk push existing repo setelah buat repo
    baru (untuk nama branchnya berupa main bisa diganti jadi
-   master)
+   master) (atau langsung pakai command git push)
 10) Setelah mengikuti command tsb, git status lagi untuk
     mengecek status perubahan file bahwa benar-benar sdh
     tersimpan
