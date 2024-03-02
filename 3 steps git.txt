@@ -1,0 +1,8 @@
+1. Modified (mengubah dan edit file namun belum disimpan secara permanen ke repo)
+2. Staged (menanda modifikasi yang kita lakukan terhadap file yang akan disimpan secara permanen ke repo)
+3. Commit (sudah disimpan ke dalam repo)
+
+3 sections:
+1) Working directory (ubah-ubah/edit file)
+2) Staging area (file disiapkan untuk disimpan)
+3) Repository (tempat semua file & alur disimpan)
