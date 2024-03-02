@@ -6,3 +6,5 @@
 1) Working directory (ubah-ubah/edit file)
 2) Staging area (file disiapkan untuk disimpan)
 3) Repository (tempat semua file & alur disimpan)
+
+tes1231344
