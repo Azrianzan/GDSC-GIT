@@ -1,1 +1,35 @@
-ini file1.txt
+Sebelum memulai step ini pastikan GIT sudah terinstall di
+device dan user.name serta user.emailnya sudah diatur
+
+GIT Collaborate like a pro:
+1) buat folder baru
+2) masukkan command git init di folder tsb
+3) bisa masukkan code . untuk buka vscode dan buat file yang
+   diperlukan di folder
+4) git status untuk melihat status perubahan file
+5) git add 'nama file.txt' untuk menambahkan file tsb
+6) git commit -m "ket. perubahan file" untuk menyimpan
+   perubahan ke dalam repo
+7) git status untuk melihat status perubahan file lagi dan
+   memastikan perubahan benar-benar tersimpan
+8) buka github dan buat repository baru
+9) ikuti command untuk push existing repo setelah buat repo
+   baru (untuk nama branchnya berupa main bisa diganti jadi
+   master)
+10) Setelah mengikuti command tsb, git status lagi untuk
+    mengecek status perubahan file bahwa benar-benar sdh
+    tersimpan
+11) Untuk mengecek remote git yang pakai command git remote -v
+12) Bisa juga commit & push pakai vscode (lebih mudah)
+13) fork dan git clone untuk mengkloning repo ke github orang
+    lain dan ke local computer orang lain
+14) Bisa git add, commit, dan push untuk menyimpan perubahan
+    folder ke repo github kita yang merupakan hasil fork repo
+    orang lain
+15) Untuk menyimpan perubahan yang kita buat pada repo github
+    kita yang merupakan hasil fork dari repo github orang lain
+    bisa pull request, nanti orang lain tsb bisa mereview
+    perubahan folder/file yang kita buat dan jika orang lain tsb
+    setuju untuk menerima perubahan tersebut maka bisa merge dan
+    confirm merge sehingga perubahan yang telah kita buat juga
+    tersimpan di repo github orang lain tsb yang kita fork.
